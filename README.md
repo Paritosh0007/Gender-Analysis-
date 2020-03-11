@@ -6,4 +6,5 @@
 * A girl child is considered a burden and is often not even allowed to see the light of the world.
 * It is hard to imagine this state of affairs in the 21st Century when women have proved to be strong leaders in every field possible.
 ## Tools:-
-* Python
+* Programming Language:- Python.
+* Environment:- Google Collab.
